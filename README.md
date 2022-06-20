@@ -71,5 +71,5 @@ if __name__ == '__main__':
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
   
- <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trunghere&custom_title=trunghere's%20Contribution%20Graph&theme=react-dark" /></a>
+ <a href="https://github.com/Trunghere"><img alt="Trunghere's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trung0pla&custom_title=trung0pla's%20Contribution%20Graph&theme=react-dark" /></a>
 
